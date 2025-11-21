@@ -4,8 +4,13 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
+<<<<<<< HEAD
     "start": "node src/index.js"
     
+=======
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+>>>>>>> f2314a4 (Fix: added sequelize dependency)
   },
   "keywords": [],
   "author": "",
